@@ -17,7 +17,7 @@ Se portalen for [bruk og prinsipper](https://fremtind.github.io/jokul/progress-b
 
 ```js
 import { ProgressBar } from "@fremtind/jkl-progress-bar-react";
-import "@fremtind/jkl-progress-bar/checkbox.min.css";
+import "@fremtind/jkl-progress-bar/progress-bar.min.css";
 ```
 
 ### Bruk
